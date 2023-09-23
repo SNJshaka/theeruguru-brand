@@ -1,2 +1,2 @@
-# theeruguru-brand
-ruguru brand name
+# snj-web
+website files
